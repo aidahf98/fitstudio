@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Coda+Caption:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Zen+Dots&display=swap');
+
+
+
+.sign{
+    background-attachment: scroll;
+    background-image: url(../img/photo-1534438327276-14e5300c3a48.jfif);
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: right;
+    background-size: 1023px;
+ }
+ 
+ 
+ .form{
+    padding-top: 100px;
+ }
+
+.navbar-brand{
+    font-family: 'Zen Dots', cursive;
+    font-size: 1.5cm;
+    font-style: oblique ;
+}
+
+.jumbotron{
+    background-image: url(../img/ydg.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: luminosity;
+
+    
+}
+
+.jumbotron h1{
+    text-shadow :3px 5px rgb(229, 255, 0) ;
+    font-family: 'Coda Caption', sans-serif;
+    font-size: 2.5cm;
+    font-weight: bold;
+    color: rgb(247, 251, 255);
+    padding-top: 30px;
+    text-align: center;
+
+
+}
+.jumbotron>div{
+    text-shadow :3px 5px rgb(229, 255, 0) ;
+    font-family: 'Coda Caption', sans-serif;
+    font-style: oblique;
+    font-size: 2.5cm;
+    font-weight: bold;
+    color: rgb(247, 251, 255);
+    margin-left: 100px;
+    padding-top: 30px;
+    text-align: center;
+   
+
+
+}
+
+
+.jumbotron a {
+    
+    font-family: 'Noto Serif', serif; 
+    font-size: xx-large; 
+    margin-top: 5rem;
+    color: rgb(192, 192, 192);
+    margin-left: 33rem;
+    
+    
+}
+
+.jumbotron a:hover {
+    text-decoration:solid;
+    font-family: 'Noto Serif', serif; 
+    font-size: xx-large;
+    color: #ffffff;
+    margin-left: 33rem;
+    
+}
+h1{
+    text-align: center;
+    font-family: 'Noto Serif', serif;
+}
+.legend{
+    font-family: 'Noto Serif', serif; 
+    margin: 60px;
+    align-content: center;
+}
+h3{
+    margin-top: 100px;
+
+}
+.card-body{
+    align-content: center;
+}
+.card{
+    margin: 50px;
+}
+
+h3{
+    font-family: 'Coda Caption', sans-serif;
+    text-align: start;
+    
+}
